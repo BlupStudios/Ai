@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ai", "ai\ai\ai.csproj", "{6B956F61-3F4C-4FB0-9AB4-BF1693B2FF35}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "aiContent", "ai\aiContent\aiContent.contentproj", "{2E617664-E734-450C-8D22-D990DC476F80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B956F61-3F4C-4FB0-9AB4-BF1693B2FF35}.Debug|x86.ActiveCfg = Debug|x86
+		{6B956F61-3F4C-4FB0-9AB4-BF1693B2FF35}.Debug|x86.Build.0 = Debug|x86
+		{6B956F61-3F4C-4FB0-9AB4-BF1693B2FF35}.Release|x86.ActiveCfg = Release|x86
+		{6B956F61-3F4C-4FB0-9AB4-BF1693B2FF35}.Release|x86.Build.0 = Release|x86
+		{2E617664-E734-450C-8D22-D990DC476F80}.Debug|x86.ActiveCfg = Debug|x86
+		{2E617664-E734-450C-8D22-D990DC476F80}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

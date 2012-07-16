@@ -1,0 +1,11 @@
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\ai.exe
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\ai.pdb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\obj\x86\Debug\ai.exe
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\obj\x86\Debug\ai.pdb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\m4a.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\aim.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\bulleta.xnb
+C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\ball.xnb

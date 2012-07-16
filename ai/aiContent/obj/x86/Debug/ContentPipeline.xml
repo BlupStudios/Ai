@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>m4a.png</Source>
+      <Name>m4a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\m4a.xnb</Output>
+      <Time>2012-07-07T18:20:36.4391728+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2012-07-08T02:50:39.1330256+03:00</Time>
+    </Item>
+    <Item>
+      <Source>aim.png</Source>
+      <Name>aim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\aim.xnb</Output>
+      <Time>2012-07-08T03:14:59.5365559+03:00</Time>
+    </Item>
+    <Item>
+      <Source>bulleta.png</Source>
+      <Name>bulleta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\bulleta.xnb</Output>
+      <Time>2012-07-08T03:25:25.9233832+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2012-07-08T09:58:20.1717531+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\aiContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\aiContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Noam\Documents\Visual Studio 2010\Projects\ai\ai\ai\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-18T22:50:21.9186099+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
